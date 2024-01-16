@@ -16,13 +16,11 @@ IPDB pour la Gestion de Données: Exploiter la puissance de la base de données 
 Phase de Développement
 Nous sommes actuellement en phase de développement actif. Restez à l'écoute pour les mises à jour, les versions bêta et les opportunités de test.
 
-![bigchaindb_logo_icon_167810](https://github.com/ThirdSpace3/Third-Space/assets/153079676/1c7df078-0d30-4c82-b7aa-473ac39a2fa8)
-![1174949_js_react js_logo_react_react native_icon](https://github.com/ThirdSpace3/Third-Space/assets/153079676/752a4a34-d4ed-46f1-8e81-2b66a044015c)
-![Unstoppable-Domains-Logo 2](https://github.com/ThirdSpace3/Third-Space/assets/153079676/4061ad35-5aae-4be2-9600-4b5b3cb119ac)
-![solana-sol-logo 1](https://github.com/ThirdSpace3/Third-Space/assets/153079676/7d50640e-718f-4a2e-8caf-8a3c30ae7c73)
-![Ipfs-logo-1024-ice-text](https://github.com/ThirdSpace3/Third-Space/assets/153079676/ad74aaff-8295-4ea0-a26b-3a140b6ffa78)
-
-
+![solana-sol-logo 1](https://github.com/ThirdSpace3/Third-Space/assets/153079676/72a67d75-e9ae-4975-ae9c-d187a332e1c5)
+![Ipfs-logo-1024-ice-text](https://github.com/ThirdSpace3/Third-Space/assets/153079676/5b98759f-9c02-411d-82cf-0a4d54747b8f)
+![bigchaindb_logo_icon_167810](https://github.com/ThirdSpace3/Third-Space/assets/153079676/2720271c-e7dd-4e2a-b18e-8f8424f342fd)
+![1174949_js_react js_logo_react_react native_icon](https://github.com/ThirdSpace3/Third-Space/assets/153079676/c89b0d30-539d-4a6a-b5dc-80e41596ff04)
+![Unstoppable-Domains-Logo 2](https://github.com/ThirdSpace3/Third-Space/assets/153079676/5f05471b-9e5a-4970-865d-4a9649ac31cf)
 
 Types de Licences
 À la sortie de notre CMS, nous envisageons d'adopter l'une des licences suivantes, adaptée à nos besoins et à ceux de notre communauté :
