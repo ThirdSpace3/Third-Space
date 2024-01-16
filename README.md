@@ -15,10 +15,14 @@ Utilisation de React.js: Une interface utilisateur intuitive et réactive.
 IPDB pour la Gestion de Données: Exploiter la puissance de la base de données interplanétaire.
 Phase de Développement
 Nous sommes actuellement en phase de développement actif. Restez à l'écoute pour les mises à jour, les versions bêta et les opportunités de test.
-![Ipfs-logo-1024-ice-text](https://github.com/ThirdSpace3/Third-Space/assets/153079676/616dfa73-0b0e-4401-a1d6-9d6369dd9213)
-![Unstoppable-Domains-Logo 2](https://github.com/ThirdSpace3/Third-Space/assets/153079676/9745f401-ca6a-4203-a300-c67a846bb63b)
-![bigchaindb_logo_icon_167810](https://github.com/ThirdSpace3/Third-Space/assets/153079676/7349836a-0f40-42c2-b68e-670717af7e4a)
-![1174949_js_react js_logo_react_react native_icon](https://github.com/ThirdSpace3/Third-Space/assets/153079676/d2541153-c0fd-48c7-b56b-6a907a358e3a)
+
+![bigchaindb_logo_icon_167810](https://github.com/ThirdSpace3/Third-Space/assets/153079676/1c7df078-0d30-4c82-b7aa-473ac39a2fa8)
+![1174949_js_react js_logo_react_react native_icon](https://github.com/ThirdSpace3/Third-Space/assets/153079676/752a4a34-d4ed-46f1-8e81-2b66a044015c)
+![Unstoppable-Domains-Logo 2](https://github.com/ThirdSpace3/Third-Space/assets/153079676/4061ad35-5aae-4be2-9600-4b5b3cb119ac)
+![solana-sol-logo 1](https://github.com/ThirdSpace3/Third-Space/assets/153079676/7d50640e-718f-4a2e-8caf-8a3c30ae7c73)
+![Ipfs-logo-1024-ice-text](https://github.com/ThirdSpace3/Third-Space/assets/153079676/ad74aaff-8295-4ea0-a26b-3a140b6ffa78)
+
+
 
 Types de Licences
 À la sortie de notre CMS, nous envisageons d'adopter l'une des licences suivantes, adaptée à nos besoins et à ceux de notre communauté :
